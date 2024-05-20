@@ -64,7 +64,7 @@
 - :mortar_board: &nbsp; No <a href="https://www.cefetmg.br/" target="_blank">Cefet MG </a>, me formei no curso de  Administração.
 - :necktie: &nbsp; Na <a href="https://www.maxmilhas.com.br/" target="_blank">Maxmilhas</a>, atuo como <code>Analista de Negócios I </code>, responsável pela parte de ofertantes envolvida em diferentes projetos no mercado de milhas aéreas com foco em trazer mais ofertas de milhas. :airplane:<br />
 - :atom: &nbsp; Sou entusiasta e aprendiz da Linguagem Java.
--airplane: Meus hobbies são viajar, conhecer bares e culturas diferentes.
+-:airplane:<br /> Meus hobbies são viajar, conhecer bares e culturas diferentes.
 - :speech_balloon: &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
 - :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:lilian_martins3@hotmail.com" target="_blank">e-mail</a> pessoal.<br />
 - 
