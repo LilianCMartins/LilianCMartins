@@ -46,7 +46,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Lilian Martins</code>, tenho 36 anos, moro em BH e sou estudante de Análise e desenvolvimento de sistemas na <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a> 
+<i><b>Olá</b> :wave:, sou o <code>Lilian Martins</code>, tenho 37 anos, moro em BH e sou estudante de Análise e desenvolvimento de sistemas na <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a> 
 </div>
 
 -----
@@ -62,8 +62,8 @@
 <p> 
 - :man_teacher: &nbsp; Na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, sou <code>aluno</code> do curso de Análise e Desenvolvimento de Sistemas.<br />
 - :mortar_board: &nbsp; No <a href="https://www.cefetmg.br/" target="_blank">Cefet MG </a>, me formei no curso de  Administração.
-- :necktie: &nbsp; Na <a href="https://www.maxmilhas.com.br/" target="_blank">Maxmilhas</a>, atuo como <code>Analista de Negócios I </code>, responsável pela parte de ofertantes envolvida em diferentes projetos no mercado de milhas aéreas com foco em trazer mais ofertas de milhas. :airplane:<br />
-- :atom: &nbsp; Sou entusiasta e aprendiz da Linguagem Java.
+- :necktie: &nbsp; Na <a href="https://www.maxmilhas.com.br/" target="_blank">Maxmilhas</a>, atuei como <code>Analista de Negócios I </code>, responsável pela parte de ofertantes envolvida em diferentes projetos no mercado de milhas aéreas com foco em trazer mais ofertas de milhas. :airplane:<br />
+- :atom: &nbsp; Sou entusiasta e aprendiz de tecnologia.
 -:airplane:<br /> Meus hobbies são viajar, conhecer bares e culturas diferentes.
 - :speech_balloon: &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
 - :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:lilian_martins3@hotmail.com" target="_blank">e-mail</a> pessoal.<br />
